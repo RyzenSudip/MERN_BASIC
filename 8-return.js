@@ -35,17 +35,30 @@ let myOutput = sum(double(10), double(20))
 // expected myoutput = 60
 
 
-function double(value) {
-    return value * 2;
-}
+// function double(value) {
+//     return value * 2;
+// }
 
-function sum(a, b) {
-    return a + b;
-}
+// function sum(a, b) {
+//     return a + b;
+// }
 
-let myOutput = sum(double(10), double(20));
-console.log(myOutput);
-<P>
-    
-</P>
+// let myOutput = sum(double(10), double(20));
+// console.log(myOutput);
 
+let aayush = "pro"
+let sudip 
+function proness(){
+     sudip = "noob"
+    let kakarot = "pro"
+};
+function toGoodmf(){
+    sudip = "pro"
+    console.log(`${aayush + sudip} `)
+
+};
+toGoodmf();
+proness();
+
+
+console.log(`${aayush  + sudip}`);
