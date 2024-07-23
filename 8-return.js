@@ -45,4 +45,7 @@ function sum(a, b) {
 
 let myOutput = sum(double(10), double(20));
 console.log(myOutput);
+<P>
+    
+</P>
 
